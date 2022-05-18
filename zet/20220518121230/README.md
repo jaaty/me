@@ -13,3 +13,9 @@ ACL - Access Control List
 
 * associates permissions with a system resource, not the user
 * the list of permissions for the resource specify which users have what level of access to the resource (e.g., Bob can read only, Alice can read and write)
+* read up on Google's Zanzibar paper
+
+# References
+https://research.google/pubs/pub48190/
+
+#rbac #abac #acl #accesscontrol #authorization #authz
